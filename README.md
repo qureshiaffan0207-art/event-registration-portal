@@ -116,7 +116,7 @@ event-registration-portal/
 **Your Name**
 - GitHub: (https://github.com/qureshiaffan0207-art)
 - LinkedIn:(https://linkedin.com/in/affan-qureshi-b090113a5)
-- Email: your.email@example.com
+- Email: qureshiaffan0207.com
 
 ## 📝 License
 
